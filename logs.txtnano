@@ -1,7 +1,0 @@
-INFO: User login successful
-ERROR: Payment failed
-WARNING: Low balance
-INFO: Loan approved
-ERROR: Database connection failed
-INFO: User logout
-WARNING: High response time
